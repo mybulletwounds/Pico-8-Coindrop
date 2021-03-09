@@ -1,5 +1,7 @@
 pico-8 cartridge // http://www.pico-8.com
 version 32
+
+--- coins not dropping
 __lua__
 basket_sprite = 1
 player_sprite = 2
